@@ -1,0 +1,9 @@
+content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url('/assets/error404quees.jpg') no-repeat;
+    background-size: 90%;
+    background-position: center;
+}

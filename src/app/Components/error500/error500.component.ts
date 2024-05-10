@@ -17,5 +17,9 @@ export class Error500Component {
   GoToHome(){
     this.router.navigate(['']);
   }
-  
+
+
+  Openmodal(){
+    
+  }
 }
